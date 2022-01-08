@@ -10,6 +10,6 @@ See `./main.py -h` to list options and defaults.
 
 Original code: https://github.com/kuangliu/pytorch-cifar
 
-Original license: LICENSE (in this repostiory)
+Original license: LICENSE (in this repository)
 
 Original README.md: ORIGINAL-README.md (in this repository)
